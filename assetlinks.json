@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.soberana22.twa",
+        "sha256_cert_fingerprints": ["FE:3A:CE:33:7D:2E:05:E4:B7:29:A2:56:66:1F:6A:4F:95:77:3A:54:12:41:56:B5:0B:85:0D:F0:83:C7:D7:9D"]
+      }
+    }]
